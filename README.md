@@ -4,7 +4,7 @@
 Give a human image , identify height and weight and BMI of the individual.
 
 ## Solution :
-The solution has been inspired by the paper FACE2BMI. This paper shows that face can be an important estimator of your height and weight and hence the BMI. The dataset quoted in the papaer is not publicly available hence i could not use the mentioned dataset for my work. I gathered data from internet manualyy. I have used almost similar technique in which i have used the celebrity's face to estimate their height,weight and BMI.
+The solution has been inspired by the paper FACE2BMI. This paper shows that face can be an important estimator of your height and weight and hence the BMI. The dataset quoted in the papaer is not publicly available hence i could not use the mentioned dataset for my work. I gathered data from internet manually. I have used almost similar technique in which i have used the celebrity's face to estimate their height,weight and BMI.
 
 ## Solution workflow
 Image ==> Face ==> Face embedding ==> Height
